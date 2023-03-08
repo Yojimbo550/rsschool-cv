@@ -8,4 +8,7 @@
 * Github
 * Spring
 * SQL
+* JavaScript
+* HTML
+* CSS
 
